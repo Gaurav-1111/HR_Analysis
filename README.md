@@ -1,4 +1,4 @@
-# HR_Analysis
+# HR_Analysis Dashboard
 # Overview
 
 This HR Analytics Dashboard provides insights into employee attrition by analyzing various metrics, such as employee count, attrition percentage, age group distribution, gender, department, job roles, and educational fields. The visualizations help HR teams identify trends and patterns, enabling data-driven decision-making to improve employee retention strategies.  
