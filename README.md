@@ -2,7 +2,15 @@
 # Overview
 
 This HR Analytics Dashboard provides insights into employee attrition by analyzing various metrics, such as employee count, attrition percentage, age group distribution, gender, department, job roles, and educational fields. The visualizations help HR teams identify trends and patterns, enabling data-driven decision-making to improve employee retention strategies.  
-Features
+📷 Screenshots 🖼️ Images of Dashboard in action!
+![image](https://github.com/user-attachments/assets/5b508872-c038-4a16-b3de-1ff273fe5f5f)
+![image](https://github.com/user-attachments/assets/2e0be445-9280-4215-a6d5-7b36e40d4a2a)
+![image](https://github.com/user-attachments/assets/44729625-df30-424f-998a-88aa5037de47)
+![image](https://github.com/user-attachments/assets/d40c487f-8475-4370-888d-fa929a45d7b5)
+![image](https://github.com/user-attachments/assets/a9583ba6-5c67-4c04-a06a-01e0244f84fc)
+![image](https://github.com/user-attachments/assets/a253e382-6212-4d85-8697-a499d8936aa3)
+
+
 
 # Key Metrics
 
